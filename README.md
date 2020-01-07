@@ -1,0 +1,1 @@
+contentful-ext-tabbedpage
