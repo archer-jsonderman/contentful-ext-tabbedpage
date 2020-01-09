@@ -1,0 +1,8 @@
+{
+  "id": "tabbed-page",
+  "name": "tabbed-page",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Object"
+  ]
+}
